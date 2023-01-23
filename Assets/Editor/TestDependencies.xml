@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+    <androidPackages>
+        <androidPackage spec="com.ironsource.sdk:mediationsdk:7.2.7">
+            <repositories>
+                <repository>https://android-sdk.is.com/</repository>
+            </repositories>
+        </androidPackage>
+    </androidPackages>
+</dependencies>
